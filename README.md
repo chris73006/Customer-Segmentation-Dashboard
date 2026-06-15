@@ -30,5 +30,6 @@ Files Included
 
 Dashboard Screenshots
 
-## Dashboard Overview 
 
+
+![Dashboard Overview](https://github.com/chris73006/Customer-Segmentation-Dashboard/blob/main/Customer%20Segmentation%20Screenshots/dashboard_overview.png?raw=true)
