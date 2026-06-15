@@ -1,4 +1,4 @@
-Customer Segmentation Dashboard
+**Customer Segmentation Dashboard**
 
 Overview
 
@@ -38,5 +38,6 @@ Dashboard Screenshots
 
 ![Gender Female Filter](https://github.com/chris73006/Customer-Segmentation-Dashboard/blob/main/Customer%20Segmentation%20Screenshots/gender_female_filter.png?raw=true)
 
-## Cluster filter Apllied
+## Cluster Filter Applied
 
+![Cluster 1 Filter](https://github.com/chris73006/Customer-Segmentation-Dashboard/blob/main/Customer%20Segmentation%20Screenshots/cluster_1_filter.png?raw=true)
