@@ -1,2 +1,34 @@
-# Customer-Segmentation-Dashboard
-Customer Segmentation Dashboard using K-Means Clustering, Python and Power BI.
+Customer Segmentation Dashboard
+
+Overview
+
+This project uses K-Means Clustering to segment customers based on age, annual income, and spending behavior. The clustered data is visualized through an interactive Power BI dashboard.
+
+Tools Used
+
+- Python
+- Pandas
+- Scikit-Learn
+- Power BI
+
+Features
+
+- Customer Segmentation using K-Means
+- Interactive Filters
+- Income vs Spending Analysis
+- Gender Distribution
+- Age Distribution
+- Cluster Summary Table
+- KPI Cards
+
+Files Included
+
+- Dashboard.pbix
+- customer_segmentation.py
+- Mall_Customers.csv
+- customer_segments.csv
+
+Dashboard Screenshots
+
+## Dashboard Overview 
+
